@@ -3,8 +3,7 @@
 
 🚀 Passionate about building **scalable applications** and exploring **full-stack development**  
 🌱 Currently diving deep into **Spring Boot & ASP.NET**  
-⚡ Love problem-solving, coding challenges, and learning **new technologies**  
-🔍 Exploring **Cybersecurity & Ethical Hacking** out of curiosity  
+⚡ Love problem-solving, coding challenges, and learning **new technologies**    
 
 ## 📖 My Journey:  
 🎓 Started in **Biotechnology (BSc Hons)** but transitioned to **Computer Science (MCA)** due to my growing interest in coding & technology!  
